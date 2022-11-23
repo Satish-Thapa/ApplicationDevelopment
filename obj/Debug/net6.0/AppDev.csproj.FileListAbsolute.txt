@@ -1,0 +1,15 @@
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\bin\Debug\net6.0\AppDev.exe
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\bin\Debug\net6.0\AppDev.deps.json
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\bin\Debug\net6.0\AppDev.runtimeconfig.json
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\bin\Debug\net6.0\AppDev.dll
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\bin\Debug\net6.0\AppDev.pdb
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.csproj.AssemblyReference.cache
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.AssemblyInfoInputs.cache
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.AssemblyInfo.cs
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.csproj.CoreCompileInputs.cache
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.dll
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\refint\AppDev.dll
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.pdb
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\AppDev.genruntimeconfig.cache
+C:\Users\Ajit Khanal\OneDrive\Desktop\AppDev\AppDev\obj\Debug\net6.0\ref\AppDev.dll
